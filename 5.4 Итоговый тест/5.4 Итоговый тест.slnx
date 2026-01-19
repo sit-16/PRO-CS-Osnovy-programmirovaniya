@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="k-ый символ/k-ый символ.csproj" />
+  <Project Path="Быки и коровы/Быки и коровы.csproj" />
+  <Project Path="Индексация в строке/Индексация в строке.csproj" />
+  <Project Path="Инициалы/Инициалы.csproj" />
+  <Project Path="Слишком длинные слова/Слишком длинные слова.csproj" />
+  <Project Path="Цифры в тексте/Цифры в тексте.csproj" />
+  <Project Path="Часть алфавита/Часть алфавита.csproj" />
+  <Project Path="Юля и Ангелина/Юля и Ангелина.csproj" />
+</Solution>

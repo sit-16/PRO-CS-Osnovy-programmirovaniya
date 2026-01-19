@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Две одинаковые буквы/Две одинаковые буквы.csproj" />
+  <Project Path="Древние письмена/Древние письмена.csproj" Id="70768fe6-c87c-4c23-987b-71167c0df333" />
+  <Project Path="Какой символ встречается раньше/Какой символ встречается раньше.csproj" />
+  <Project Path="Количество слов/Количество слов.csproj" />
+  <Project Path="Палиндром/Палиндром.csproj" />
+  <Project Path="Перевертыш/Перевертыш.csproj" />
+  <Project Path="Срезы строки/Срезы строки.csproj" />
+  <Project Path="Стоимость товара/Стоимость товара.csproj" />
+  <Project Path="Удаление символа из строки/Удаление символа из строки.csproj" />
+  <Project Path="Частота букв/Частота букв.csproj" Id="5de9817b-9681-475e-bea6-332a02cbd2a7" />
+</Solution>

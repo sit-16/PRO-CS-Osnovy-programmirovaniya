@@ -1,0 +1,15 @@
+﻿// See https://aka.ms/new-console-template for more information
+int n = int.TryParse(Console.ReadLine(), out n) ? n : 0;
+bool is7 = false;
+bool is0 = false;
+int count = 0;
+while (n > 0)
+{
+    count++;
+    int digit = n % 10;
+    is7 |= digit == 7;
+    is0 |= digit == 0;
+    n /= 10;
+}
+string result = count > 5 && (is7 && !is0) ? "YES" : "NO";
+Console.WriteLine(result);

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ConsoleApp1/Подозрительная карта.csproj" Id="933bc940-a797-438e-9d12-5179b24cc81a" />
+  <Project Path="Артур и загадочный термометр/Артур и загадочный термометр.csproj" Id="f8c18247-f950-471f-a0b2-f5a16fe3c03a" />
+  <Project Path="Испорченные каникулы/Испорченные каникулы.csproj" Id="1d0da524-e367-45ec-aa0e-1e9102d77a9a" />
+  <Project Path="Контроль скорости/Контроль скорости.csproj" Id="c5297f60-0a47-4095-a6e4-e0770fb5dd1e" />
+  <Project Path="Разброс значений/Разброс значений.csproj" />
+</Solution>

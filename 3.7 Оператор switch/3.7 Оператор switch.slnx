@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Времена года/Времена года.csproj" />
+  <Project Path="День недели/День недели.csproj" />
+  <Project Path="Калькулятор/Калькулятор.csproj" />
+  <Project Path="Количество дней в месяце/Количество дней в месяце.csproj" />
+  <Project Path="Регистрационный знак/Регистрационный знак.csproj" />
+</Solution>

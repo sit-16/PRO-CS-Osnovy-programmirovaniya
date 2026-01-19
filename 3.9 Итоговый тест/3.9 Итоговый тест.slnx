@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Арбуз/Арбуз.csproj" Id="4b96283d-38b2-4bd8-9c44-a397055e38bd" />
+  <Project Path="Артур и цифры/Артур и цифры.csproj" Id="1238c484-bcb6-4c2c-8bf3-2d3d7bed7418" />
+  <Project Path="Домашнее задание/Домашнее задание.csproj" Id="28466d5e-5a75-4251-a498-dda24f283123" />
+  <Project Path="Последняя цифра — чётная/Последняя цифра — чётная.csproj" />
+  <Project Path="Симметричное число/Симметричное число.csproj" Id="08a0e929-8c24-45ce-8f24-d41672eee57c" />
+  <Project Path="Следующее чётное/Следующее чётное.csproj" Id="f4251fc2-6d49-4d0b-a3b6-3390878f20ae" />
+</Solution>
